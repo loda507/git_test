@@ -1,4 +1,4 @@
 hello world!!!!
 my first git file...
 
-creat new branch1..
+creat new branch1 && change master
